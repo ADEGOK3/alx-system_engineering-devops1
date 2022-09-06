@@ -1,1 +1,1 @@
-script that lists all the files with a .gif extension in the current directory and all its sub-directories
+replace all characters A and c from input to z and e respectively
