@@ -1,1 +1,1 @@
-script that removes all letters c and c from input
+script that duplicates the last line of the file iacta
