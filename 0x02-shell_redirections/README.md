@@ -1,1 +1,1 @@
-script that parses wed servers logs in TSV format
+script that decodes acrostics that use the first letter of each line
